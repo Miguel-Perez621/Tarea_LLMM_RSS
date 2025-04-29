@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias Varias</title>
+    <link>https://www.xataka.com</link>
+    <description>Una serie de noticias actuales de distinta índole.</description>
+    <language>es-es</language>
+    <copyright>Copyright 2025 Miguel Pérez Calles</copyright>
+    <pubDate>Tue, 29 Apr 2025 09:22:42 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Apr 2025 09:22:51 GMT</lastBuildDate>
+    <category>Actualidad</category>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <image>
+      <url>https://previews.123rf.com/images/albund/albund1502/albund150200060/36164781-una-pila-de-peri%C3%B3dicos-doblados-apilada-caliente-de-la-prensa-con-un-t%C3%ADtulo-gen%C3%A9rico-que-lee.jpg</url>
+      <title>Noticias Varias</title>
+      <link>https://www.xataka.com</link>
+      <description>Imagen genérica de portada</description>
+    </image>
+    <item>
+      <title>Google y Chrome</title>
+      <link>https://www.muycomputer.com/2025/04/25/cuanto-te-costaria-comprar-google-chrome-este-es-el-valor-estimado/</link>
+      <description>Google tiene que vender Chrome, ¿Cuánto costaría?</description>
+      <category>Internet</category>
+      <guid isPermaLink="false">566B61C4-7F0D-4D7B-B57F-1556FB32763D</guid>
+      <pubDate>Sun, 27 Apr 2025 09:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Entierro del Papa</title>
+      <link>https://www.bbc.com/mundo/articles/c74zrxlxw9ko</link>
+      <description>La inédita procesión del féretro y otros 3 momentos significativos del funeral del papa Francisco</description>
+      <category>Defunciones</category>
+      <guid isPermaLink="false">9C57A70E-24AB-4902-B1F7-213618D179DE</guid>
+      <pubDate>Sun, 27 Apr 2025 09:54:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Videojuegos demasiado grandes</title>
+      <link>https://vandal.elespanol.com/noticia/1350780085/de-1-kilobyte-a-200-gb-los-videojuegos-cada-vez-ocupan-mas-y-esto-es-solo-el-principio-si-miramos-atras/</link>
+      <description>https://miguel-perez621.github.io/Tarea_LLMM_RSS/RSS.xml</description>
+      <category>Videojuegos</category>
+      <guid isPermaLink="false">4B1A8DE2-2288-401C-A50B-9EDFC7303F20</guid>
+      <pubDate>Sun, 27 Apr 2025 09:54:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jaén recupera la luz</title>
+      <link>https://lacontradejaen.eldiario.es/apagon-jaen-regreso-normalidad/</link>
+      <description>Jaén empieza recuperar el suministro eléctrico tras el apagón masivo</description>
+      <category>Apagón 2025</category>
+      <guid isPermaLink="false">09F22C52-818D-45CE-B1CC-7E3B728B7810</guid>
+      <pubDate>Tue, 29 Apr 2025 09:22:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nuevo modelo plegable de Motorola</title>
+      <link>https://www.xataka.com/moviles/motorola-razr-60-ultra-primeras-impresiones-plegable-ambicioso-motorola-lleva-ia-bandera</link>
+      <description>Motorola ha presentado el nuevo Razr 60 Ultra en Nueva York. El terminal llega con mucha potencia y estrena, juntos a sus hermanos Razr y Edge, Moto AI</description>
+      <category>Móviles</category>
+      <guid isPermaLink="false">B5D97245-3F94-4186-B0C5-CF5CA6C0CF94</guid>
+      <pubDate>Sat, 26 Apr 2025 09:25:25 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
